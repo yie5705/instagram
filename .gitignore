@@ -1,0 +1,8 @@
+*.pvc
+*~
+/.vscode
+db.sqlite3
+__pycahce__
+.DS_Store
+제공 코드/
+제공하는 코드/
